@@ -1,0 +1,17 @@
+body{
+    background:yellow;
+    color: red;
+}
+
+.name_objects,#result_objectName,#result_accuracy,#webcamViewLabel
+{
+    color: rgb(52, 1, 172);
+}
+
+.camera
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
